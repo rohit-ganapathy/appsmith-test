@@ -15,6 +15,7 @@
   "color": "#C7F3E3",
   "icon": "medical",
   "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
   "applicationVersion": 2,
   "forkingEnabled": true,
   "isManualUpdate": false,
