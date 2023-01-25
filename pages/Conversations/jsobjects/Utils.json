@@ -1,0 +1,25 @@
+{
+  "unpublishedCollection": {
+    "name": "Utils",
+    "pageId": "Conversations",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\tgetLatLong: () => {\n\t\t\n\t},\n\tmyFun2: async () => {\n\t\t//use async-await or promises\n\t}\n}",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": []
+      },
+      {
+        "name": "myVar2",
+        "value": {}
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Conversations_Utils",
+  "deleted": false,
+  "gitSyncId": "61dbc9d66bd5757f166cc898_6218a5a7445a8d746a05f85b"
+}
